@@ -1,0 +1,44 @@
+*{
+    border: 0px solid darkblue;
+}
+
+body{
+    border-width: 5px;
+    font-family: sans-serif;
+    font-size: large;
+    background-color: rgb(99, 99, 99);
+}
+
+.container {
+    border-width: 2px;
+    background-color: lightblue;
+
+    padding: 16px;
+    margin: 16px;
+}
+.description{
+    background-color: rgb(185, 194, 223);
+    width: 800px;
+    margin: 16px auto;
+}
+
+.other{
+    display: inline-block;
+
+    border-width: 2px;
+    background-color: lightblue;
+
+    padding: 16px;
+    margin: 16px;
+}
+
+.centered{
+    text-align: center;
+}
+.large{
+    font-size: x-large;
+}
+
+ul{
+    list-style-type: none;
+}
